@@ -1,0 +1,16 @@
+
+v	java:S116"ZRename this field "CAR_THREAD_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¥Â±8á–ƒÔÁ1
+>
+java:S1170"!Make this final field static too.(¿¥Â±8á–ƒÔÁ1
+]	java:S1258"<This block of commented-out lines of code should be removed.(Æ´Õ¥øÿÿÿÿ8ç–ƒÔÁ1
+X	java:S125@"<This block of commented-out lines of code should be removed.(ˆÕ¹Ğ8è–ƒÔÁ1
+]	java:S125a"<This block of commented-out lines of code should be removed.(¾Ò±Óüÿÿÿÿ8µÿ‡ÔÁ1
+X	java:S125g"<This block of commented-out lines of code should be removed.(ó¹á8ì–ƒÔÁ1
+X
+java:S1128"6Remove this unused import 'org.lab.utils.ThreadUtils'.(ÌÛ Øùÿÿÿÿ8·İ™ÕÁ1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8™¨™ÕÁ1
+U
+java:S1068"8Remove this unused "numberOfParkingSpots" private field.(ÔŒ£ß8í–ƒÔÁ1
+U
+java:S1068"3Remove this unused "executorService" private field.(’ şüÿÿÿÿ8î–ƒÔÁ1
